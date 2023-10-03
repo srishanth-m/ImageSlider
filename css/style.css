@@ -1,0 +1,23 @@
+main{
+    height: 400px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 90px auto 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.slide{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav button{
+    margin: 5px;
+    padding: 10px;
+}
